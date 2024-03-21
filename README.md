@@ -11,6 +11,7 @@ Discovering insights from Turkiye student evaluations using Python. This project
 
 ## Attribute Information:
 instr: Instructor's identifier; values taken from {1,2,3}
+
 class: Course code (descriptor); values taken from {1-13}
 repeat: Number of times the student is taking this course; values are taken from {0,1,2,3,...}
 attendance: Code of the level of attendance; values from {0, 1, 2, 3, 4}
